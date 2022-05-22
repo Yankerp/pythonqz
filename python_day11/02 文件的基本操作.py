@@ -6,7 +6,7 @@
 """
 
 # 1、打开文件
-# open('/Users/ayao/PycharmProjects/pythonqz/python_day11/笔记')
+# open('/Users/ayao/PycharmProjects/pythonqz/python_day11/本周内容笔记')
 f = open('a.txt', mode='rt')  # res的值是一种变量，占用了应用程序的内存空间  r是只读，t是文本文件
 print(type(f))  # <class '_io.TextIOWrapper'> 文件类型
 # x = 10  # 归属于python解释器的内存空间
