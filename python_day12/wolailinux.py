@@ -6,6 +6,7 @@
 """
 
 import time
+
 with open('wolai.log', mode='rb') as f:
     f.seek(0, 2)
     num = f.tell()
@@ -15,4 +16,4 @@ with open('wolai.log', mode='rb') as f:
         if len(res) == 0:
             time.sleep(1)
         else:
-            print(res.decode('utf-8'),end="")
+            print(res.decode('utf-8'), end="")

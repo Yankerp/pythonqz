@@ -96,41 +96,45 @@ def func(x, y=2 + 2):  # y的默认形参是在函数定义的时候被赋值的
 
 # func(1,2,3,4,5,6,7,8)
 
-def my_sum(*args): # 通常将这个*后面的那个字母写成args，args就是一个变量名，没别的意思。
+def my_sum(*args):  # 通常将这个*后面的那个字母写成args，args就是一个变量名，没别的意思。
     count = 0
     for i in args:
         count += i
     return count
+
+
 # res = my_sum(1,2,3,4,5,6,7,8,8,9,0,)
 # print(res)
 
 # II：*可以也可以用在实参中,实参中带*，先将*后的值打散成位置实参
-def func(x,y,z):
-    print(x,y,z)
+def func(x, y, z):
+    print(x, y, z)
+
 
 # func(1,2,3)
 # func(*[111,222,333])  # func(111,222,333)
 
 # III：形参与实参中都带*
-def func(x,y,*args):
+def func(x, y, *args):
     print(x, y, args)
+
 
 # func(1,2,[3,4,5,6,7])
 # func(1,2,*[3,4,5,6,7])
 
 
-
 # 2.4.2、可变长度的关键字参数
 # I: **形参名：用来接收溢出多余的关键字实参，**会将溢出多余的关键字实参保存成字典的格式,然后赋值给**后面的形参名
 #       **后面的形参名可以是任意的名字，但是python约定俗成应该是kwargs
-def func(x,y, **kwargs):
-    print(x,y, kwargs)
+def func(x, y, **kwargs):
+    print(x, y, kwargs)
+
 
 # func(1,2,name="yanza", password='owd123.com')
 
 # II:**可以也可以用在实参中,实参中带**，先将**后的值打散成关键字实参,**后跟的只能是字典
-def func(x,y,z):
-    print(x,y,z)
+def func(x, y, z):
+    print(x, y, z)
 
 # func(*{'x':"yx", 'y':'yz', 'z':'yzzzz'})
 # func(**{'x':"yx", 'y':'yz', 'z':'yzzzz'})
@@ -140,17 +144,7 @@ def func(x,y,z):
 # def func()
 
 
-
 # **和*混合用法    *args必须要在**kwargs之前
-
-
-
-
-
-
-
-
-
 
 
 # 2.5、命名关键字参数（了解）

@@ -5,8 +5,8 @@
 @url:www.yankerphub.com
 """
 
-
 import time
+
 with open('access.log', mode='rb') as f:
     f.seek(0, 2)
     while True:
