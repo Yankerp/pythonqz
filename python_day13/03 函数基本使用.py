@@ -97,11 +97,11 @@ def 函数名(参数1.餐数2.....):
 
 # 三种定义方式各用在何处？
 # 1、无参函数的应用场景
-def out_user():
-    your_name = input("请您输入您的名称：").strip()
-    your_password = input("请您输入您的密码：").strip()
-    msg = '名字：{}, 密码：{}'.format(your_name, your_password)
-    print(msg)
+# def out_user():
+#     your_name = input("请您输入您的名称：").strip()
+#     your_password = input("请您输入您的密码：").strip()
+#     msg = '名字：{}, 密码：{}'.format(your_name, your_password)
+#     print(msg)
 
 
 # 2、有参函数的应用场景
@@ -173,9 +173,10 @@ def pwd():
 # print(res)
 
 # 3、返回多个值：用逗号分隔开多个值,会被returnfa返回成元组
-def func():
-    return 10, 'aaa', 'zzz'
+# def func():
+#     return 10, 'aaa', 'zzz'
 
 
-res = func()
-print(res)  # (10, 'aaa', 'zzz')
+# res = func()
+# print(res)  # (10, 'aaa', 'zzz')
+
