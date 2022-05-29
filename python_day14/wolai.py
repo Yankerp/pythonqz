@@ -81,10 +81,11 @@
 #
 # userinfo(1, 2, 3, 4, 5, 6)
 
-def userinfo(a, b, *zzz):
-    print(a, b, zzz)
-
-userinfo(1,2,3,3,4,5,5,5,6,6,7,6,6,6,7,8,8,9,9,)
+# def userinfo(a, b, *args):
+#     print(a, b, args)
+#
+#
+# userinfo(1, 2, 3, 3, 4, 5, 5, 5, 6, 6, 7, 6, 6, 6, 7, 8, 8, 9, 9, )
 
 # def userinfo2(*zzz, **zzzz):
 #     print(zzz, zzzz)
@@ -92,3 +93,77 @@ userinfo(1,2,3,3,4,5,5,5,6,6,7,6,6,6,7,8,8,9,9,)
 #
 # userinfo2(1, 2, 3, 3, 4, 2, 1, 1, 2, 12, 1, 2, 12, 1, 2, 12, 12, 1, 2, 31, 3, 12, 31, 23, 12, 3, 123, 12, 3, 12, 3, 12,
 #           3, 12, 3, 12, 31, 23, 12, 3, 12, 3, 12, 3, 123, 1, 3, 12, 3, 12, 31, 3, 1, name='yanzan',password=123123123123)
+
+
+#
+# def func(x, y, *args):
+#     print(x, y, args)
+#
+# func(*['111','222', '333','444'])
+# func(*"this a yankerp")
+
+
+# def func(x, y, *args, name=None, password=None):
+#     print(x, y, args, name, password)
+#
+#
+# func(1, 2, 3, 4, name='yanza', password='pwd123.com', 'age'='123123')
+
+
+# def func(x, y, *args, name=None, password=None, **kwargs):
+#     print(x, y, args, name, password, kwargs)
+#
+#
+# func(1, 2, 3, 4, name='yanza', password='pwd123.com', age='19', shengao=190)
+#
+# # >>  1 2 (3, 4) yanza pwd123.com {age : 19, shenggao : 190}
+
+
+# def func(*args, **kwargs):
+#     print(args, kwargs)
+#
+#
+# func(**{'name': 'yanzan', 'password': 'pwd123.com', 'url': 'ywyankerp.com'})
+#
+#
+# def func2(*args, name=None, password=None, url=None):
+#     print(args, name, password, url)
+#
+#
+# func2(**{'name': 'yanzan', 'password': 'pwd123.com', 'url': 'ywyankerp.com'})
+
+
+# def func(x, y, z, *args, oooo=None, **kwargs):
+#     print(x, y, z, args, oooo, kwargs)
+#
+#
+# func('zhangsan', 'lisi', *[1, 2, 3, 4, 5, 6, 7, 8, 9], oooo='哈哈哈哈哈',
+#      **{'name': 'yankerp', 'age': 19, 'url': 'www.baidu.com', 'shengao': 190})
+#
+# # 预言函数输出成功！
+# # >> zhangsan lisi 1 (2 3 4 5 6 7 8 9) 哈哈哈哈哈 {'name': 'yankerp', 'age': 19, 'url': 'www.baidu.com', 'shengao': 190}
+
+
+# def index(a, b, c, e, f):
+#     print('index>>>', a, b, c, e, f)
+#
+#
+# def warppper(a, b, c, d, f):
+#     print('warpper>>>', a, b, c, d, f)
+#     index(a, b, c, d, f)
+#
+#
+# warppper(1, 2, 3, 4, 5)
+
+
+
+
+def index(a, b):
+    print('index>>>', a, b)
+
+
+def warppper(*args, **kwargs):
+    print('warpper>>>', args, kwargs)
+    index(args, kwargs)
+
+warppper(1,2,3,4,5,6,name='yanzan')
