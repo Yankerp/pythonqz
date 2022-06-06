@@ -6,7 +6,7 @@
 """
 
 #
-# from foo import *
+# from fuu import *
 #
 # print(f"这是调用的foo内的x{x}")
 # get()
