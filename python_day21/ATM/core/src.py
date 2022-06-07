@@ -10,22 +10,28 @@ import sys
 from lib.common import logger
 
 def exit():
+    print("退出程序成功")
     logger('开始执行退出程序')
+    sys.exit()
 
 
 def login():
+    print("登录功能")
     logger('开始执行登录程序')
 
 
 def register():
+    print("注册功能")
     logger('开始执行注册程序')
 
 
 def witdraw():
+    print("提现功能")
     logger('开始执行提现程序')
 
 
 def transfer():
+    print("转账功能")
     logger('开始执行转账程序')
 
 
@@ -50,6 +56,7 @@ def run():
             user_caidan[your_input][1]()
         else:
             print("输入的不存在！！！")
+            logger("输入的指令不存在")
 
 
 
