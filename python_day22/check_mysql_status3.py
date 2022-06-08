@@ -89,6 +89,6 @@ webhook= ''
 secret = ''
 
 if __name__ == '__main__':
-    result = MySQL_Status(hostname='', port=, username='', password='')
+    result = MySQL_Status(hostname='', port='', username='', password='')
     code = result.check_mysql_process()
     result.check_mysql_status(code)
