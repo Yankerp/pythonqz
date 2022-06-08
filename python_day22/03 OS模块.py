@@ -8,7 +8,7 @@
 # os模块是与操作系统交互的一个接口
 import os
 
-# print(os.getcwd()) # 获取当前工作目录，即当前python脚本工作的目录路径
+# print(os.getcwd()) # 获取当前工作目录，即当前python脚本工作的目录路径,根据平台，可以自动设置/ 或者 \
 # os.chdir(r"E:\pythonqz\python_day21")  # 改变当前脚本工作目录；相当于shell下cd
 # os.curdir  # 返回当前目录: ('.')       未解
 # os.pardir  # 获取当前目录的父目录字符串名：('..')    未解
@@ -34,12 +34,12 @@ import os
 # os.path.isabs(path)  # 如果path是绝对路径，返回True
 # os.path.isfile(path)  # 如果path是一个存在的文件，返回True。否则返回False
 # os.path.isdir(path)  # 如果path是一个存在的目录，则返回True。否则返回False
-# os.path.join(path1[, path2[, ...]])   # 这个没理解！， 测试了也没理解啥意思!!!!!!!!!!!!!!!!!!!!
+# os.path.join(path1[, path2[, ...]]) # 拼接
 # os.path.getatime(path)  返回path所指向的文件或者目录的最后存取时间
 # os.path.getmtime(path)  返回path所指向的文件或者目录的最后修改时间
 # os.path.getsize(path) 返回path的大小 目录/文件
 
 
-
+# 作业:统计一个文件夹中所有文件的一些大小
 
 
