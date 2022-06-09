@@ -2,8 +2,11 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/python_day10/test.py" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/python_day17/aaaa" charset="GBK" />
     <file url="file://$PROJECT_DIR$/python_day22/check_mysql_status2.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/python_day22/check_mysql_status_smcs.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/python_day23/test.ini" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/python_day23/yanzan.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/python_day24/access.log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/python_day24/access.log" charset="GBK" />
   </component>
 </project>

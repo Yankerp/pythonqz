@@ -7,6 +7,7 @@ import base64
 import urllib.parse
 import paramiko
 
+
 class MySQL_Status:
     def __init__(self, hostname, port, username, password):
         self.hostname = hostname
@@ -85,7 +86,7 @@ class MySQL_Status:
             print("钉钉发送告警成功.......")
 
 
-webhook= ''
+webhook = ''
 secret = ''
 
 if __name__ == '__main__':
