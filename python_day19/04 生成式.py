@@ -71,7 +71,7 @@ info_list = (
 
 # 延瓒的第一次玩法
 # l = []
-# with open('笔记', mode='rt', encoding='utf-8') as f:
+# with open('本周内容', mode='rt', encoding='utf-8') as f:
 #     while True:
 #         try:
 #             text = f.__next__()
@@ -84,12 +84,12 @@ info_list = (
 #     print(f"笔记当中的内容一共有{sum(l)}个字符")
 
 # 思考了一下的第二次玩法
-# with open('笔记', mode='rt', encoding='utf-8') as f:
+# with open('本周内容', mode='rt', encoding='utf-8') as f:
 #     text_list = [len(text) for text in f.read()]
 #     print("笔记内容一共有{txt}个字符".format(txt=sum(text_list)))
 
 # 第三次牛逼的优化。效率最高
-with open('笔记', mode='rt', encoding='utf-8') as f:
+with open('本周内容', mode='rt', encoding='utf-8') as f:
     text_list = (len(text) for text in f.read())
     print(text_list)
     print("笔记内容一共有{txt}个字符".format(txt=sum(text_list)))

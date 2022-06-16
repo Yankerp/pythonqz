@@ -82,7 +82,7 @@
 #         break
 
 
-# with open('笔记', mode='rt', encoding='utf-8') as f:
+# with open('本周内容', mode='rt', encoding='utf-8') as f:
 #     while True:
 #         try:
 #             print(f.__next__())

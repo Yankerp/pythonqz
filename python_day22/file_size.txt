@@ -1,0 +1,239 @@
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day08/01 流程控制之for循环.py 大小为：2829 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day08/笔记 大小为：291 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day08/02 数字类型内置方法.py 大小为：404 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day08/03 字符串类型内置方法.py 大小为：3086 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day06/01 可变不可变类型.py 大小为：1655 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day06/笔记 大小为：310 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day06/04 成员运算与身份运算.py 大小为：511 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day06/02 什么是条件.py 大小为：477 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day06/05 流程控制之if判断.py 大小为：981 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day06/课后练习总结.py 大小为：1275 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day06/03 逻辑运算符.py 大小为：1122 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day07/01 深浅copy.py 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day07/笔记 大小为：1632 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day07/02 流程控制之while循环.py 大小为：4718 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day09/wolai.py 大小为：320 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day09/笔记 大小为：99 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day09/03 字典类型的内置方法.py 大小为：4944 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day09/01 列表类型的内置方法.py 大小为：3275 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day09/02 元组类型的内置方法.py 大小为：1530 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day14/wolai.py 大小为：4309 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day14/01 函数的参数的使用.py 大小为：5444 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day14/今日内容 大小为：492 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/file.txt 大小为：85 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/user_input.py 大小为：184 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/wolai.py 大小为：2116 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/wolaidb.txt 大小为：188 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/wolai222.txt 大小为：24 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/smcs5.16.xlsx 大小为：9324 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/02 文件修改的两种方式.py 大小为：989 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/linuxtail.py 大小为：294 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/01 f.seek的应用.py 大小为：106 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/wolaidef.py 大小为：3216 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/03 函数基本使用.py 大小为：4064 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/access.log 大小为：213 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day13/wolai.txt 大小为：8 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/check_mysql_status2.py 大小为：2546 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/06 shutil模块.py 大小为：119 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/check_mysql_status3.py 大小为：3946 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/wolai.py 大小为：2113 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/04 sys模块.py 大小为：331 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/file_size.txt 大小为：4156 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/file_size.py 大小为：810 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/check_mysql_status_smcs.py 大小为：3633 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/笔记 大小为：654 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/01 时间模块time与datetime.py 大小为：2305 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/02 random模块.py 大小为：1266 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/05 打印进度条.py 大小为：1010 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/03 OS模块.py 大小为：2709 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day22/mysql.py 大小为：720 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/03 configparser模块.py 大小为：787 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/wolai.py 大小为：2958 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/05 subprocess模块.py 大小为：403 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/01 json&pickle.py 大小为：3314 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/test.ini 大小为：96 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/笔记 大小为：314 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/test.json 大小为：23 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/02 猴子补丁与ujson.py 大小为：478 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/04 hashlib模块.py 大小为：1086 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/t1.log 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/t2.log 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day23/yanzan.log 大小为：833 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day24/test.log 大小为：236 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day24/笔记 大小为：328 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day24/__pycache__/settings.cpython-38.pyc 大小为：1025 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day24/settings.py 大小为：3766 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day24/a1.log 大小为：968 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day24/01 logging.py 大小为：1133 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/03 文件操作的其他方法.py 大小为：1093 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/aaaa.txt 大小为：6 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/usercmd.py 大小为：216 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/wolai.py 大小为：1191 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/04 文件操作高级方法：控制文件指针操作.py 大小为：1219 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/a2.txt 大小为：18 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/h.txt 大小为：264 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/a3.txt 大小为：18 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/accesszz.log 大小为：9242942 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/testlog.py 大小为：353 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/wolai.log 大小为：490 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/01 x模式.py 大小为：602 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/a.txt 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/本周内容笔记 大小为：1030 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/linuxtail.py 大小为：874 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/wolaiuserinout.py 大小为：191 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/wolailinux.py 大小为：374 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/msk2.png 大小为：25426 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/access.log 大小为：168007 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/02 b模式.py 大小为：1554 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/msk.png 大小为：25426 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day12/wolai.txt 大小为：12 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day15/02 名称空间与作用域.py 大小为：4295 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day15/01 命名关键字参数.py 大小为：394 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day15/03 Global与nonlocal关键字.py 大小为：335 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day15/今日内容 大小为：713 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day05/01 垃圾回收机制.py 大小为：959 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day05/02 与用户交互.py 大小为：1103 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day05/笔记 大小为：778 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day05/03 运算符.py 大小为：1706 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day04/01 变量.py 大小为：6134 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day04/__init__.py 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day04/笔记 大小为：863 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day04/02 基本数据类型.py 大小为：4248 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/config 大小为：309 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/objects/pack/pack-644b884917254b63cd68bef2f5c6e7a0ac2cdb7d.pack 大小为：747162 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/objects/pack/pack-644b884917254b63cd68bef2f5c6e7a0ac2cdb7d.idx 大小为：10144 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/HEAD 大小为：23 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/info/exclude 大小为：250 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/logs/HEAD 大小为：178 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/logs/refs/heads/master 大小为：178 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/logs/refs/remotes/origin/HEAD 大小为：178 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/description 大小为：73 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/commit-msg.sample 大小为：896 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/pre-rebase.sample 大小为：4898 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/pre-commit.sample 大小为：1642 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/applypatch-msg.sample 大小为：478 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/pre-receive.sample 大小为：544 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/prepare-commit-msg.sample 大小为：1492 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/post-update.sample 大小为：189 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/pre-applypatch.sample 大小为：424 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/pre-push.sample 大小为：1348 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/hooks/update.sample 大小为：3610 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/refs/heads/master 大小为：41 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/refs/remotes/origin/HEAD 大小为：32 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/index 大小为：21686 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.git/packed-refs 大小为：114 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day10/aaa.py 大小为：46 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day10/笔记 大小为：435 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day10/test.py 大小为：37 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day10/01 集合类型.py 大小为：1922 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day10/test2.py 大小为：80 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day10/wdakldwa.py 大小为：95 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day10/字符编码 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day17/wolai.py 大小为：2897 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day17/aaaaa 大小为：18 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day17/笔记 大小为：1186 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day17/01 无参装饰器.py 大小为：1373 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/07 python包【自定义模块】.py 大小为：1804 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/mmm/__init__.py 大小为：52 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/mmm/__pycache__/__init__.cpython-37.pyc 大小为：276 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/run.py 大小为：295 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/03 垃圾代码模块循环导入.py 大小为：197 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/core/__pycache__/src.cpython-37.pyc 大小为：1716 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/core/src.py 大小为：1232 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/bin/start.py 大小为：237 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/README 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/lib/__pycache__/common.cpython-37.pyc 大小为：638 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/lib/common.py 大小为：415 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/db/db_databases.py 大小为：71 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/log/user.log 大小为：720 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/ATM/conf/settings.py 大小为：219 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/02 from...import.....py 大小为：411 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/m3.py 大小为：45 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/m2.py 大小为：45 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/bbb/__init__.py 大小为：71 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/bbb/__pycache__/m4.cpython-37.pyc 大小为：303 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/bbb/__pycache__/__init__.cpython-37.pyc 大小为：191 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/bbb/m4.py 大小为：72 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/__init__.py 大小为：403 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/__pycache__/m2.cpython-37.pyc 大小为：255 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/__pycache__/m3.cpython-37.pyc 大小为：255 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/__pycache__/m1.cpython-37.pyc 大小为：255 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/__pycache__/__init__.cpython-37.pyc 大小为：254 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/fuu/m1.py 大小为：63 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/mmm1.py 大小为：66 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/__init__.py 大小为：71 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/笔记 大小为：504 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/__pycache__/foo.cpython-38.pyc 大小为：504 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/__pycache__/mmm2.cpython-38.pyc 大小为：306 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/__pycache__/mmm1.cpython-38.pyc 大小为：305 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/__pycache__/foo.cpython-37.pyc 大小为：467 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/mmm2.py 大小为：66 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/wolaitest.py 大小为：561 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/01 一个python文件有几种用途「理论」.py 大小为：199 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/04 搜索模块的路径与优先级.py 大小为：1185 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/06 函数类型提示功能.py 大小为：253 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/foo.py 大小为：194 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day21/05 编写一个规范的模块.py 大小为：467 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day19/笔记 大小为：390 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day19/02 yield表达式.py 大小为：1264 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day19/wolai2.py 大小为：2182 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day19/04 生成式.py 大小为：2476 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day19/05 函数递归.py 大小为：1336 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day19/01 叠加多个装饰器.py 大小为：1029 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day19/03 三元表达式.py 大小为：575 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day18/02 有参装饰器.py 大小为：1917 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day18/01 装饰器的补充.py 大小为：1139 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day18/04 生成器.py 大小为：828 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day18/wolai.py 大小为：1484 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day18/笔记 大小为：883 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day18/03 迭代器.py 大小为：4516 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day18/wolai2.py 大小为：4366 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/module_yanzan.py 大小为：187 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/wolai.py 大小为：875 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/04 匿名函数的应用.py 大小为：1042 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/03 匿名函数.py 大小为：630 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/笔记 大小为：223 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/__pycache__/foo.cpython-38.pyc 大小为：361 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/__pycache__/module_yanzan.cpython-38.pyc 大小为：424 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/05 模块.py 大小为：2246 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/01 算法之二分法.py 大小为：1103 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/foo.py 大小为：120 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day20/02 面向过程的编程思想.py 大小为：114 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day16/wolai.py 大小为：4167 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day16/01 函数对象.py 大小为：1459 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day16/笔记 大小为：1551 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day16/02 函数的嵌套.py 大小为：332 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day16/03 闭包函数.py 大小为：1870 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/encodings.xml 大小为：696 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/inspectionProfiles/profiles_settings.xml 大小为：174 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/pythonqz.iml 大小为：317 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/vcs.xml 大小为：180 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/.gitignore 大小为：176 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/workspace.xml 大小为：11733 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/modules.xml 大小为：268 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/dictionaries/Administrator.xml 大小为：150 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/.idea/misc.xml 大小为：185 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/03 wicth语法上下文管理.py 大小为：738 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/01 文件与文件模式介绍 大小为：1108 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/04 指定字符编码.py 大小为：1149 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/rb.txt 大小为：10 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/wolai.py 大小为：1661 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/user.txt 大小为：57 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/eee.txt 大小为：0 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/101010101001010010.txt 大小为：12 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/02 文件的基本操作.py 大小为：1300 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/518_db.txt 大小为：80 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/yanzan.txt 大小为：19 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/dlkjalk.txt 大小为：12 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/笔记 大小为：697 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/dbd.txt 大小为：75 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/c.txt 大小为：18 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/b.txt 大小为：25 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/a.txt 大小为：9 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/d.txt 大小为：24 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/10101010100亏大了家务劳动卡瓦1010010.txt 大小为：4 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/1106.txt 大小为：80 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/dlkawjldjawldwa.txt 大小为：75 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/延瓒个人案例登录系统.py 大小为：3730 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/05 文件操作模式详解.py 大小为：5442 Bytes
+此文件：/Users/ayao/PycharmProjects/pythonqz/python_day11/dbd_copy.txt 大小为：75 Bytes

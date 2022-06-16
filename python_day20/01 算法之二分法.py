@@ -32,19 +32,16 @@ def binary(find_num, you_list):
     if len(you_list) == 0:
         print('不存在这个值')
         return
-    count = len(you_list) // 2 # 得到列表中间的值,index值
+    count = len(you_list) // 2  # 得到列表中间的值,index值
     if find_num > you_list[count]:
-        new_list = you_list[count+1:]
+        new_list = you_list[count + 1:]
         binary(find_num, new_list)
     elif find_num < you_list[count]:
-        new_list = you_list[:count] # 得到新的列表左边的值
+        new_list = you_list[:count]  # 得到新的列表左边的值
         binary(find_num, new_list)
 
     else:
         print("找到了.......")
 
+
 binary(1, nums)  # 二分算法实现。
-
-
-
-

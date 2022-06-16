@@ -4,7 +4,3 @@
 @author:yankerp
 @url:www.yankerphub.com
 """
-# 主要针对文件的拷贝等
-import shutil
-
-shutil.disk_usage()

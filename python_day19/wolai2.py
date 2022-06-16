@@ -85,7 +85,7 @@
 # print(new_tuple.__next__())
 # print(new_tuple.__next__())  # 值已经取完了，抛出了异常：StopIteration
 #
-# with open('笔记', mode='rt', encoding='utf-8') as f:
+# with open('本周内容', mode='rt', encoding='utf-8') as f:
 #     # print('笔记当中一共有{num}'.format(num=sum(len(n) for n in f.read())))
 #     res = (len(n) for n in f.read())
 #     print(sum(res))

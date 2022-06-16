@@ -4,7 +4,9 @@
 @author:yankerp
 @url:www.yankerphub.com
 """
-# 主要针对文件的拷贝等
+
+import sys
 import shutil
 
-shutil.disk_usage()
+old_new_file = sys.argv
+shutil.copy(old_new_file[1], old_new_file[2])
